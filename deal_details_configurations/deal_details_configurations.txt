@@ -1,0 +1,192 @@
+[
+    {
+        "name": "main",
+        "title": "ОсноВная информация",
+        "type": "section",
+        "elements": [
+            {
+                "name": "TYPE_ID",
+                "optionFlags": "1"
+            },
+            {
+                "name": "CLIENT",
+                "optionFlags": "1",
+                "options": {
+                    "defaultCountry": "RU"
+                }
+            },
+            {
+                "name": "ASSIGNED_BY_ID",
+                "optionFlags": "0"
+            },
+            {
+                "name": "OBSERVER",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_1666948879947",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_1666948987729",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_1668150608",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_P7_MAILNAME",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_1663222011512",
+                "optionFlags": "0"
+            },
+            {
+                "name": "UF_CRM_1674626117",
+                "optionFlags": "0"
+            },
+            {
+                "name": "UF_CRM_1573467873",
+                "optionFlags": "1"
+            }
+        ]
+    },
+    {
+        "name": "user_sd9o59rq",
+        "title": "Олчат",
+        "type": "section"
+    },
+    {
+        "name": "user_e9zpet55",
+        "title": "Первоначальный интерес",
+        "type": "section",
+        "elements": [
+            {
+                "name": "UF_CRM_1663748126136",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_1666317222461",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_1669974007",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_1683039511728",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_1705886065",
+                "optionFlags": "1"
+            }
+        ]
+    },
+    {
+        "name": "products",
+        "title": "бронь",
+        "type": "section",
+        "elements": [
+            {
+                "name": "UF_CRM_1670387531980",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_1663222941978",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_1664425068117",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_1573467842",
+                "optionFlags": "1"
+            }
+        ]
+    },
+    {
+        "name": "user_k08n1kza",
+        "title": "о квартире и договоре",
+        "type": "section",
+        "elements": [
+            {
+                "name": "OPPORTUNITY_WITH_CURRENCY",
+                "optionFlags": "1",
+                "options": {
+                    "isPayButtonVisible": "false"
+                }
+            },
+            {
+                "name": "UF_CRM_ROOM",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_BSNAME",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_LEVEL",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_APANUM",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_AREA",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_1705982400",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_1705982427",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_1705982382",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_1694053997",
+                "optionFlags": "0"
+            },
+            {
+                "name": "UF_CRM_1694054051",
+                "optionFlags": "0"
+            },
+            {
+                "name": "UF_CRM_1699337565",
+                "optionFlags": "0"
+            }
+        ]
+    },
+    {
+        "name": "user_3xtzelnb",
+        "title": "Новый раздел",
+        "type": "section",
+        "elements": [
+            {
+                "name": "UF_CRM_1708935881799",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_1722573989947",
+                "optionFlags": "1"
+            },
+            {
+                "name": "UF_CRM_APA",
+                "optionFlags": "0"
+            },
+            {
+                "name": "UF_CRM_62EB64249501E",
+                "optionFlags": "1"
+            }
+        ]
+    }
+]

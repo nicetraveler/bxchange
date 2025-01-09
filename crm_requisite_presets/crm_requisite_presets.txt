@@ -1,0 +1,355 @@
+[
+    {
+        "ID": "1",
+        "ENTITY_TYPE_ID": "8",
+        "COUNTRY_ID": "1",
+        "NAME": "Организация",
+        "DATE_CREATE": "2023-09-15T19:55:09+03:00",
+        "DATE_MODIFY": "2024-04-19T07:14:02+03:00",
+        "CREATED_BY_ID": "0",
+        "MODIFY_BY_ID": null,
+        "ACTIVE": "Y",
+        "SORT": "510",
+        "XML_ID": "#CRM_REQUISITE_PRESET_DEF_RU_COMPANY#",
+        "fields": [
+            {
+                "ID": 1,
+                "FIELD_NAME": "RQ_INN",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "Y",
+                "SORT": 510
+            },
+            {
+                "ID": 2,
+                "FIELD_NAME": "RQ_COMPANY_NAME",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "Y",
+                "SORT": 520
+            },
+            {
+                "ID": 3,
+                "FIELD_NAME": "RQ_COMPANY_FULL_NAME",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 530
+            },
+            {
+                "ID": 4,
+                "FIELD_NAME": "RQ_OGRN",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 540
+            },
+            {
+                "ID": 5,
+                "FIELD_NAME": "RQ_KPP",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "Y",
+                "SORT": 550
+            },
+            {
+                "ID": 6,
+                "FIELD_NAME": "RQ_COMPANY_REG_DATE",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 560
+            },
+            {
+                "ID": 7,
+                "FIELD_NAME": "RQ_OKPO",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 570
+            },
+            {
+                "ID": 8,
+                "FIELD_NAME": "RQ_OKTMO",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 580
+            },
+            {
+                "ID": 9,
+                "FIELD_NAME": "RQ_DIRECTOR",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 600
+            },
+            {
+                "ID": 10,
+                "FIELD_NAME": "RQ_ACCOUNTANT",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 600
+            },
+            {
+                "ID": 11,
+                "FIELD_NAME": "RQ_ADDR",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 610
+            },
+            {
+                "ID": 12,
+                "FIELD_NAME": "RQ_SIGNATURE",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 620
+            },
+            {
+                "ID": 13,
+                "FIELD_NAME": "RQ_STAMP",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 630
+            },
+            {
+                "ID": 14,
+                "FIELD_NAME": "UF_CRM_1713366490",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "Y",
+                "SORT": 500
+            },
+            {
+                "ID": 15,
+                "FIELD_NAME": "UF_CRM_1713413410",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "Y",
+                "SORT": 500
+            }
+        ]
+    },
+    {
+        "ID": "2",
+        "ENTITY_TYPE_ID": "8",
+        "COUNTRY_ID": "1",
+        "NAME": "ИП",
+        "DATE_CREATE": "2023-09-15T19:55:09+03:00",
+        "DATE_MODIFY": "",
+        "CREATED_BY_ID": "0",
+        "MODIFY_BY_ID": null,
+        "ACTIVE": "Y",
+        "SORT": "520",
+        "XML_ID": "#CRM_REQUISITE_PRESET_DEF_RU_INDIVIDUAL#",
+        "fields": [
+            {
+                "ID": 2,
+                "FIELD_NAME": "RQ_COMPANY_NAME",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "Y",
+                "SORT": 510
+            },
+            {
+                "ID": 3,
+                "FIELD_NAME": "RQ_COMPANY_FULL_NAME",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 520
+            },
+            {
+                "ID": 1,
+                "FIELD_NAME": "RQ_LAST_NAME",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "Y",
+                "SORT": 530
+            },
+            {
+                "ID": 2,
+                "FIELD_NAME": "RQ_FIRST_NAME",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "Y",
+                "SORT": 540
+            },
+            {
+                "ID": 3,
+                "FIELD_NAME": "RQ_SECOND_NAME",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "Y",
+                "SORT": 550
+            },
+            {
+                "ID": 4,
+                "FIELD_NAME": "RQ_INN",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "Y",
+                "SORT": 560
+            },
+            {
+                "ID": 5,
+                "FIELD_NAME": "RQ_OGRNIP",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 570
+            },
+            {
+                "ID": 6,
+                "FIELD_NAME": "RQ_OKPO",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 580
+            },
+            {
+                "ID": 7,
+                "FIELD_NAME": "RQ_OKVED",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 590
+            },
+            {
+                "ID": 8,
+                "FIELD_NAME": "RQ_ADDR",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 600
+            },
+            {
+                "ID": 9,
+                "FIELD_NAME": "RQ_SIGNATURE",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 610
+            },
+            {
+                "ID": 10,
+                "FIELD_NAME": "RQ_STAMP",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 620
+            }
+        ]
+    },
+    {
+        "ID": "3",
+        "ENTITY_TYPE_ID": "8",
+        "COUNTRY_ID": "1",
+        "NAME": "Физ. лицо",
+        "DATE_CREATE": "2023-09-15T19:55:09+03:00",
+        "DATE_MODIFY": "2024-04-17T04:56:19+03:00",
+        "CREATED_BY_ID": "0",
+        "MODIFY_BY_ID": null,
+        "ACTIVE": "Y",
+        "SORT": "530",
+        "XML_ID": "#CRM_REQUISITE_PRESET_DEF_RU_PERSON#",
+        "fields": {
+            "0": {
+                "ID": 1,
+                "FIELD_NAME": "RQ_LAST_NAME",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "Y",
+                "SORT": 510
+            },
+            "1": {
+                "ID": 2,
+                "FIELD_NAME": "RQ_FIRST_NAME",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "Y",
+                "SORT": 520
+            },
+            "2": {
+                "ID": 3,
+                "FIELD_NAME": "RQ_SECOND_NAME",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "Y",
+                "SORT": 530
+            },
+            "3": {
+                "ID": 4,
+                "FIELD_NAME": "RQ_IDENT_DOC",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 540
+            },
+            "4": {
+                "ID": 5,
+                "FIELD_NAME": "RQ_IDENT_DOC_SER",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 550
+            },
+            "5": {
+                "ID": 6,
+                "FIELD_NAME": "RQ_IDENT_DOC_NUM",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 560
+            },
+            "6": {
+                "ID": 7,
+                "FIELD_NAME": "RQ_IDENT_DOC_ISSUED_BY",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 570
+            },
+            "7": {
+                "ID": 8,
+                "FIELD_NAME": "RQ_IDENT_DOC_DATE",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 580
+            },
+            "8": {
+                "ID": 9,
+                "FIELD_NAME": "RQ_IDENT_DOC_DEP_CODE",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 590
+            },
+            "9": {
+                "ID": 10,
+                "FIELD_NAME": "RQ_ADDR",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 600
+            },
+            "10": {
+                "ID": 11,
+                "FIELD_NAME": "RQ_SIGNATURE",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 610
+            },
+            "11": {
+                "ID": 12,
+                "FIELD_NAME": "RQ_STAMP",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "N",
+                "SORT": 620
+            },
+            "12": {
+                "ID": 13,
+                "FIELD_NAME": "UF_CRM_1701790879",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "Y",
+                "SORT": 500
+            },
+            "13": {
+                "ID": 16,
+                "FIELD_NAME": "RQ_INN",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "Y",
+                "SORT": 500
+            },
+            "14": {
+                "ID": 17,
+                "FIELD_NAME": "UF_CRM_1707198008",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "Y",
+                "SORT": 500
+            },
+            "16": {
+                "ID": 19,
+                "FIELD_NAME": "UF_CRM_1707198288",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "Y",
+                "SORT": 500
+            },
+            "17": {
+                "ID": 20,
+                "FIELD_NAME": "UF_CRM_1713318978",
+                "FIELD_TITLE": "",
+                "IN_SHORT_LIST": "Y",
+                "SORT": 500
+            }
+        }
+    }
+]

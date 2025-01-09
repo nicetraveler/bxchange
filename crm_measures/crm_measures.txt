@@ -1,0 +1,47 @@
+[
+    {
+        "ID": "1",
+        "CODE": "6",
+        "MEASURE_TITLE": "Метр",
+        "SYMBOL_RUS": "м",
+        "SYMBOL_INTL": "m",
+        "SYMBOL_LETTER_INTL": "MTR",
+        "IS_DEFAULT": "N"
+    },
+    {
+        "ID": "2",
+        "CODE": "112",
+        "MEASURE_TITLE": "Литр",
+        "SYMBOL_RUS": "л.",
+        "SYMBOL_INTL": "l",
+        "SYMBOL_LETTER_INTL": "LTR",
+        "IS_DEFAULT": "N"
+    },
+    {
+        "ID": "3",
+        "CODE": "163",
+        "MEASURE_TITLE": "Грамм",
+        "SYMBOL_RUS": "г",
+        "SYMBOL_INTL": "g",
+        "SYMBOL_LETTER_INTL": "GRM",
+        "IS_DEFAULT": "N"
+    },
+    {
+        "ID": "4",
+        "CODE": "166",
+        "MEASURE_TITLE": "Килограмм",
+        "SYMBOL_RUS": "кг",
+        "SYMBOL_INTL": "kg",
+        "SYMBOL_LETTER_INTL": "KGM",
+        "IS_DEFAULT": "N"
+    },
+    {
+        "ID": "5",
+        "CODE": "796",
+        "MEASURE_TITLE": "Штука",
+        "SYMBOL_RUS": "шт",
+        "SYMBOL_INTL": "pc. 1",
+        "SYMBOL_LETTER_INTL": "PCE. NMB",
+        "IS_DEFAULT": "Y"
+    }
+]
