@@ -11,7 +11,7 @@
         "DEC_POINT": ".",
         "THOUSANDS_SEP": null,
         "DECIMALS": "2",
-        "DATE_UPDATE": "2023-09-15T19:55:22+03:00",
+        "DATE_UPDATE": "2023-09-15T21:55:22+03:00",
         "localizations": {
             "en": {
                 "FORMAT_STRING": "&#8381;#",
@@ -45,7 +45,7 @@
         "DEC_POINT": ".",
         "THOUSANDS_SEP": null,
         "DECIMALS": "2",
-        "DATE_UPDATE": "2023-09-15T19:55:22+03:00",
+        "DATE_UPDATE": "2023-09-15T21:55:22+03:00",
         "localizations": {
             "en": {
                 "FORMAT_STRING": "$#",
@@ -79,7 +79,7 @@
         "DEC_POINT": ".",
         "THOUSANDS_SEP": null,
         "DECIMALS": "2",
-        "DATE_UPDATE": "2023-09-15T19:55:22+03:00",
+        "DATE_UPDATE": "2023-09-15T21:55:22+03:00",
         "localizations": {
             "en": {
                 "FORMAT_STRING": "&euro;#",
@@ -113,7 +113,7 @@
         "DEC_POINT": ".",
         "THOUSANDS_SEP": null,
         "DECIMALS": "2",
-        "DATE_UPDATE": "2023-09-15T19:55:22+03:00",
+        "DATE_UPDATE": "2023-09-15T21:55:22+03:00",
         "localizations": {
             "en": {
                 "FORMAT_STRING": "&#8372;#",
@@ -147,7 +147,7 @@
         "DEC_POINT": ".",
         "THOUSANDS_SEP": null,
         "DECIMALS": "2",
-        "DATE_UPDATE": "2023-09-15T19:55:22+03:00",
+        "DATE_UPDATE": "2023-09-15T21:55:22+03:00",
         "localizations": {
             "en": {
                 "FORMAT_STRING": "Br#",
